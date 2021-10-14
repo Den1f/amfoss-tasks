@@ -1,6 +1,6 @@
 # amfoss-tasks
 This is for amfoss tasks
 
-# Status
-- [x] [Task 00](https://github.com/Den1f/amfoss-tasks/tree/main/Task%2000)
-- [ ] Task 01
+| TASK# | DESCRIPTION | STATUS |
+|-------|-------------|--------|
+| [Task 00](https://github.com/Den1f/amfoss-tasks/tree/main/Task%2000) | Installing Ubuntu | Completed | 
