@@ -1,5 +1,6 @@
 # amfoss-tasks
-This is for amfoss tasks
+  
+This is for amfoss tasks     <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0302.gif" border="0" alt="animated-line-image-0302" /></a>
 
 SL. NO. | TASK# | DESCRIPTION | STATUS |
 |-------|-------|-------------|--------|
@@ -11,3 +12,5 @@ SL. NO. | TASK# | DESCRIPTION | STATUS |
 | 6.| [Task 09](https://github.com/Den1f/amfoss-tasks/tree/main/Task%2009) | Setup a Simple Personal Website | Completed |
 | 7.| [Task 11](https://github.com/Den1f/amfoss-tasks/tree/main/Task%2011) | Poster Design | Completed |
 | 8.| [Task 14](https://github.com/Den1f/amfoss-tasks/tree/main/Task%2014) | Bandit | Completed |
+
+
