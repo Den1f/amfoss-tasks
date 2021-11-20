@@ -9,4 +9,4 @@ This is the [sample UI](https://github.com/amfoss/tasks/tree/main/task-6) that I
 
 # Flutter based UI task
 
-![my app](https://github.com/Den1f/amfoss-tasks/blob/main/Task%2006/myapp.gif)
+![my app](https://github.com/Den1f/amfoss-tasks/blob/main/Task%2006/app.gif)
